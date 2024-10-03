@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Taftazani Adi</h1>
 <h3 align="center">Junior Flutter Mobile developer who likes to learn new things</h3>
 
-- 🔭 I’m currently working on [PT Inovasi Bakti Nusantara](https://ibn.co.id/)
+- 🔭 I'm currently looking for a job as a **Junior Flutter Mobile Developer**
 
 - 🌱 I’m currently learning **Flutter, Dart, and GetX State-Management**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter & Dart**
 
 - 📫 How to reach me **m.taftazaniadi@gmail.com**
 
